@@ -79,7 +79,7 @@ ul.primary li {
 }
 ul.primary li a {
   background-color: #ddd;
-  border-color: #bbb;
+  border-color: #ff0000;
   border-style: solid solid none solid;
   border-width: 1px;
   height: auto;
