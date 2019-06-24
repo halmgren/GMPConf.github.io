@@ -105,7 +105,7 @@ input.form-radio {
 }
 .marker,
 .form-required {
-  color: #f00;
+  color: #ffff00;
 }
 .form-item input.error,
 .form-item textarea.error,
