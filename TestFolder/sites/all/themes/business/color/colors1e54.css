@@ -2,7 +2,7 @@
 
 /* Main background */
 
-body { background-color:#eeeeee; }
+body { background-color:#004777; }
 
 /* Menu */
 
@@ -21,11 +21,11 @@ body { background-color:#eeeeee; }
 #main-menu .menu a:active,
 #main-menu .menu ul a:focus,
 #main-menu .menu ul a:hover,
-#main-menu .menu ul a:active { background: #b81005 }
+#main-menu .menu ul a:active { background: #004777 }
 
 /* Link */
 
-a { color: #2e70b1; }
+a { color: #004777; }
 
 a:hover { color: #004777; }
 
@@ -33,6 +33,6 @@ a:hover { color: #004777; }
 
 /* Button */
 
-.form-submit { background: #004777; border-color:#b81010; }
+.form-submit { background: #004777; border-color:#004777; }
 
 .form-submit:hover { background: #004777; }
