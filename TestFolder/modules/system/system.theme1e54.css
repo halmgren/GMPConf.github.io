@@ -193,7 +193,7 @@ html.js fieldset.collapsed .fieldset-legend {
  * @see tabledrag.js
  */
 tr.drag {
-  background-color: #fffff0;
+  background-color: #ffff00;
 }
 tr.drag-previous {
   background-color: #ffd;
@@ -211,7 +211,7 @@ body div.tabledrag-changed-warning {
  * @see tableselect.js
 */
 tr.selected td {
-  background: #ffc;
+  background: #ffff00;
 }
 td.checkbox,
 th.checkbox {
