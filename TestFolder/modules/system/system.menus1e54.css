@@ -78,7 +78,7 @@ ul.primary li {
   display: inline;
 }
 ul.primary li a {
-  background-color: #ddd;
+  background-color: #ffff00;
   border-color: #ff0000;
   border-style: solid solid none solid;
   border-width: 1px;
@@ -88,12 +88,12 @@ ul.primary li a {
   text-decoration: none;
 }
 ul.primary li.active a {
-  background-color: #ff0000;
+  background-color: #ffff00;
   border: 1px solid #bbb;
   border-bottom: 1px solid #fff;
 }
 ul.primary li a:hover {
-  background-color: #ff0000;
+  background-color: #ffff00;
   border-color: #ccc;
   border-bottom-color: #eee;
 }
