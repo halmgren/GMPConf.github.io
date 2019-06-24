@@ -6,13 +6,13 @@ body { background-color:#eeeeee; }
 
 /* Menu */
 
-#wrap { border-top: 3px solid #b81007; }
+#wrap { border-top: 3px solid #004777; }
 
-#main-menu .menu a.active, #main-menu .menu ul a.active { background: #b81007; }
+#main-menu .menu a.active, #main-menu .menu ul a.active { background: #004777; }
 
-#main-menu .menu a.active-trail { background: #b81007; }
+#main-menu .menu a.active-trail { background: #004777; }
 
-#sitename h1 a:hover, #sitename h2 a:hover { color: #b81007; }
+#sitename h1 a:hover, #sitename h2 a:hover { color: #004777; }
 
 /* Menu Hover */
 
@@ -27,12 +27,12 @@ body { background-color:#eeeeee; }
 
 a { color: #2e70b1; }
 
-a:hover { color: #b81008; }
+a:hover { color: #004777; }
 
-.links li a:hover, .field-name-field-tags a:hover { color: #b81008; }
+.links li a:hover, .field-name-field-tags a:hover { color:  #004777; }
 
 /* Button */
 
-.form-submit { background: #b81010; border-color:#b81010; }
+.form-submit { background: #004777; border-color:#b81010; }
 
-.form-submit:hover { background: #cf5240; }
+.form-submit:hover { background: #004777; }
