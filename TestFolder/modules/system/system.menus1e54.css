@@ -93,7 +93,7 @@ ul.primary li.active a {
   border-bottom: 1px solid #fff;
 }
 ul.primary li a:hover {
-  background-color: #eee;
+  background-color: #ff0000;
   border-color: #ccc;
   border-bottom-color: #eee;
 }
